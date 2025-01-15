@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @facade14k
+- 👋 Hi, I’m Mohammad Abdullah
 - 👀 Hello there! I'm a dedicated Backend Web Developer with a strong command over a variety of technologies. Here are my key skills:
 - 💻Front-End Development: Proficient in HTML, CSS, and Bootstrap, I craft visually appealing and responsive user interfaces that enhance the overall user experience.
 - 💪PHP & Laravel: Proficient in developing robust and scalable backend solutions using PHP and Laravel, focusing on seamless data management and efficient application logic implementation.
